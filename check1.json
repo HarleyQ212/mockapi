@@ -1,4 +1,4 @@
 const data = [
     { label: "Electronics", value: "Electronics" },
     { label: "Furniture", value: "Furniture" },
-  ];
+  ]
