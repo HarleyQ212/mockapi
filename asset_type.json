@@ -1,5 +1,4 @@
-[
-  { "label": "Electronics", "value": "Electronics" },
-  { "label": "Furniture", "value": "Furniture" },
-  { "label": "Any thing more", "value": "Any thing more" },
-]
+const data = [
+   { label: "Electronics", value: "Electronics" },
+   { label: "Furniture", value: "Furniture" },
+];
